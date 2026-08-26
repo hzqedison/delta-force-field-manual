@@ -22,6 +22,7 @@ Then open `http://localhost:4173/`.
 - `/zh-cn/guides.html` — 简体中文攻略入口
 - `/zh-cn/guides/` — 简体中文专题攻略
 - `/zh-cn/sources.html` — 简体中文资料日志
+- `/assets/` — original editorial illustrations created for the site; not official game assets
 
 ## Evidence boundary
 
