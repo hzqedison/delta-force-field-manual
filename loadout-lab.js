@@ -34,6 +34,9 @@ if (root) {
   let activeTag = '';
   let visibleLimit = 18;
 
+  const initialQuery = new URLSearchParams(location.search).get('q');
+  if (initialQuery) queryInput.value = initialQuery;
+
   const escapeHtml = (value) => String(value ?? '').replace(/[&<>'"]/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
   const labelFor = (value) => copy.labels[value] || value;
   const tagFor = (value) => copy.tags[value] || value;

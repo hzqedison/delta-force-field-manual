@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://delta-force-field-manual.vercel.app/</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/guides.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/guides/extraction-starter.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/guides/modes-and-roles.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/guides/pc-requirements.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/guides/loadout-lab.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/sources.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/extraction-starter.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/modes-and-roles.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/pc-requirements.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/loadout-lab.html</loc></url>
-  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/sources.html</loc></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/guides.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/guides/extraction-starter.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/guides/modes-and-roles.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/guides/pc-requirements.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/guides/loadout-lab.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/search.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/sources.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/extraction-starter.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/modes-and-roles.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/pc-requirements.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/guides/loadout-lab.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/search.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://delta-force-field-manual.vercel.app/zh-cn/sources.html</loc><lastmod>2026-08-26</lastmod></url>
 </urlset>
