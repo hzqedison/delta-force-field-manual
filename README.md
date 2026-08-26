@@ -1,6 +1,6 @@
 # Delta Force Field Manual
 
-An English, source-led starter guide for Delta Force players. The site is intentionally lightweight: static HTML, no login, no database, and a clear source trail for every factual section.
+A bilingual, source-led starter guide for Delta Force players. The site is intentionally lightweight: static HTML, no login, no database, and a clear source trail for every factual section.
 
 ## Local preview
 
@@ -18,6 +18,10 @@ Then open `http://localhost:4173/`.
 - `/guides/modes-and-roles.html` — modes and operator roles
 - `/guides/pc-requirements.html` — PC requirements and setup checklist
 - `/sources.html` — evidence log
+- `/zh-cn/` — 简体中文首页
+- `/zh-cn/guides.html` — 简体中文攻略入口
+- `/zh-cn/guides/` — 简体中文专题攻略
+- `/zh-cn/sources.html` — 简体中文资料日志
 
 ## Evidence boundary
 
