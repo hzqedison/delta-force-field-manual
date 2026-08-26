@@ -28,4 +28,4 @@ Then open `http://localhost:4173/`.
 
 ## Evidence boundary
 
-Official and platform facts are linked in the Sources page. Player advice is framed as a practical checklist, not an official rule. The loadout lab links to the live Delta Forge catalog instead of hard-coding a volatile 205-plan snapshot; the observed count and taxonomy are dated in the guide.
+Official and platform facts are linked in the Sources page. Player advice is framed as a practical checklist, not an official rule. The loadout lab includes a dated local snapshot of 205 plans and keeps the live Delta Forge catalog in the source log for refresh and comparison.
