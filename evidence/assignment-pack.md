@@ -83,11 +83,11 @@ Note: SteamDB is used as an observable demand/competition proxy. Google Trends w
 
 ## Task 5 — Online deployment and data connection
 
-This section is completed after the repository is created and the Vercel deployment URL is confirmed.
+Repository and deployment are complete. GSC ownership still needs to be verified for this new Vercel URL.
 
-- Website URL: `TO BE FILLED AFTER DEPLOYMENT`
-- GSC verification / sitemap: `TO BE FILLED FROM REAL ACCOUNT SCREENSHOT`
-- GA connection: `TO BE FILLED FROM REAL ACCOUNT SCREENSHOT`
+- Website URL: `https://delta-force-field-manual.vercel.app/`
+- GSC verification / sitemap: `Pending ownership verification in the user's Google Search Console account; sitemap is live at https://delta-force-field-manual.vercel.app/sitemap.xml`
+- GA connection: `Google Analytics 4 property “Delta Force Field Manual”; web stream `https://delta-force-field-manual.vercel.app`; Measurement ID `G-72BKMMHT6Y`; current status: no data received yet`
 
 **Reflection draft:** The most useful part of this step is learning that “site online” and “site measurable” are separate checks. The deployment URL must load on desktop and mobile, while GSC and GA must be verified from the actual properties rather than inferred from a local build.
 
@@ -95,7 +95,7 @@ This section is completed after the repository is created and the Vercel deploym
 
 This section is completed only with real GSC data. If the site has not accumulated useful data within the 21-day course window, the honest submission is a technical check plus scheduled day-7 and day-14 reviews.
 
-- My site: `TO BE FILLED AFTER DEPLOYMENT`
+- My site: `https://delta-force-field-manual.vercel.app/`
 - GSC total impressions: `0 / real value`
 - GSC total clicks: `0 / real value`
 - New search queries: `Only record if visible in the real GSC property`
