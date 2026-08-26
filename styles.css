@@ -95,6 +95,7 @@ p { color: var(--muted); }
 .dark .intel-label { color: var(--cyan); }
 .intel-panel h2 { margin-top: 44px; font-size: 42px; }
 .intel-panel p { max-width: 580px; margin-bottom: 0; font-size: 14px; }
+.intel-panel .data-source { display: block; margin-top: 14px; }
 .intel-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 26px; }
 .mini-stat { padding-top: 12px; border-top: 1px solid var(--line); }
 .mini-stat strong { display: block; margin-top: 8px; font: 700 28px/.95 var(--display); }
